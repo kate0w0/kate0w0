@@ -1,23 +1,32 @@
 ## Hi, I'm Katya 👋
+I’m a student fascinated by how models learn to make sense of data.
+I like experimenting, visualizing results, and understanding the reasoning behind predictions.
+I see ML as a bridge between intuition and mathematics — a way to describe how the world behaves.
 
-### 👨‍💻 What I can use:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-<div>
+### My Pet-projects:
 
+### Currently learning:
+- Strengthening my understanding of algorithms  
+- Exploring the math behind classic ML models  
+- Taking my first steps into Computer Vision
+  
+### Skills:
+| Category | Tools |
+|-----------|--------|
+| Languages | Python, SQL |
+| Data | Pandas, NumPy, Matplotlib |
+| ML & AI | scikit-learn, PyTorch |
+| Tools | Git, Jupyter|
 
-### 📫 How to reach me:
+### How to reach me:
 <div id="badges">
   <a href="https://t.me/kate_0w0">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:serkate0w0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://vk.com/id253417317">
+    <img src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>

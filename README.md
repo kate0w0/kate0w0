@@ -5,18 +5,28 @@ I see ML as a bridge between intuition and mathematics — a way to describe how
 
 ### My Pet-projects:
 
-### Currently learning:
-- Strengthening my understanding of algorithms  
-- Exploring the math behind classic ML models  
-- Taking my first steps into Computer Vision
+🎓 Applicant Assistant (Telegram Bot)
+Developed an AI-powered Telegram bot for university applicants. The system combines semantic search, RAG, SQL-agent capabilities, and exam-score-based program recommendations. Implemented FAISS-based retrieval, SQLite database integration, toxicity filtering, and LLM-powered query processing to answer questions about admission rules, tuition fees, passing scores, and educational programs.
+
+📊 A/B Test Analysis: Marketplace Pricing Strategy
+Conducted a full-scale analysis of an A/B experiment evaluating the impact of loyalty discount changes on marketplace revenue. Performed SRM checks, power analysis and MDE calculation, A/A validation, statistical testing (Welch t-test, Mann–Whitney), multiple-testing corrections, lift estimation, ROI analysis, and price elasticity evaluation. The study identified pricing scenarios that improved ARPU while maintaining business efficiency.
+
+📈 Price Band Forecasting with Quantile Regression
+Built a forecasting system for predicting lower (5th percentile) and upper (95th percentile) product price boundaries. Developed feature engineering pipelines using weather, calendar, and product hierarchy data, implemented leakage-free target encoding, and trained LightGBM quantile regression models optimized with pinball loss. The solution estimates future price corridors rather than single-point forecasts, providing uncertainty-aware predictions.
   
-### Skills:
-| Category | Tools |
+### Skills
+| Category | Tools & Technologies |
 |-----------|--------|
-| Languages | Python, SQL |
-| Data | Pandas, NumPy, Matplotlib |
-| ML & AI | scikit-learn, PyTorch |
-| Tools | Git, Jupyter|
+| Programming | Python, SQL |
+| Data Analysis | Pandas, NumPy, SciPy |
+| Machine Learning | scikit-learn, PyTorch, LightGBM |
+| Statistical Analysis | A/B Testing, Hypothesis Testing, Power Analysis, MDE Calculation, A/A Testing, Multiple Testing Correction |
+| Forecasting & ML | Classical ML methods, Quantile Regression, Feature Engineering|
+| NLP & LLM | RAG, Semantic Search, FAISS, LLM Applications|
+| Databases | SQLite |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Tools | Git, GitHub, Jupyter Notebook |
+| Deployment & Applications | Telegram Bot Development, Docker |
 
 ### How to reach me:
 <div id="badges">

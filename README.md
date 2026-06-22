@@ -1,7 +1,4 @@
 ## Hi, I'm Katya 👋
-I’m a student fascinated by how models learn to make sense of data.
-I like experimenting, visualizing results, and understanding the reasoning behind predictions.
-I see ML as a bridge between intuition and mathematics — a way to describe how the world behaves.
 
 ### My Pet-projects:
 
